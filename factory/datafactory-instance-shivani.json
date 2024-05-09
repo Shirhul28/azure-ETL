@@ -1,0 +1,9 @@
+{
+	"name": "datafactory-instance-shivani",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2a6a2e61-2ab3-455b-b318-1f7f2682b906",
+		"tenantId": "2efd699a-1922-4e69-b601-108008d28a2e"
+	}
+}
